@@ -1,0 +1,32 @@
+body{
+    font-family: 'Play', sans-serif;
+    background-color: whitesmoke;
+
+;
+}
+h1,
+h2
+{   background-color: dimgray;
+    color: whitesmoke;
+    line-height: 1,5;
+
+}
+h3{
+    background-color: black;
+    color:whitesmoke;
+    text-align: right;
+
+}
+p{
+    background-color: whitesmoke;
+    line-height: 1,5;  
+}
+
+.foto-Mar {
+width:100px;
+height: 100px;
+}
+.sklenka{
+width: 100px;
+border-radius: 50%;
+}
