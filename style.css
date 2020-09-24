@@ -1,0 +1,66 @@
+body{
+    font-family: 'Play', sans-serif;
+    background-color: whitesmoke;
+    max-width: 70rem;
+  
+  
+
+;
+}
+h1,
+h2
+{   background-color:black;
+    color: whitesmoke;
+    line-height: 1.5;
+    text-align: center;
+    border: red;
+
+}
+main {
+    display: inline;
+}
+
+h3{
+    background-color: black;
+    color:whitesmoke;
+    text-align: center;
+
+}
+
+
+
+.foto-Mar {
+max-width: 350px;
+max-height: 350px;
+margin: 50px;
+
+
+
+}
+.sklenka{
+width: 250px;
+border-radius: 50%;
+}
+footer {
+    background-color:black;
+    color:whitesmoke;
+}
+.vitej{
+    border: 1px solid red;
+    background-color: black;
+    color: whitesmoke;
+   padding: 1rem;
+    margin: 5px 10px 5px 10px ;
+    text-align: center;
+}
+
+.delimstranku{
+    padding-bottom: 50%;
+}
+.czechitas{
+
+    border: 3px double #241917
+
+    
+}
+    
