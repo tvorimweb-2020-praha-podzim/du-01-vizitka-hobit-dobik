@@ -2,65 +2,55 @@ body{
     font-family: 'Play', sans-serif;
     background-color: whitesmoke;
     max-width: 70rem;
-  
-  
+    margin: 0px;
 
-;
 }
+.hlavicka{
+   background-color: dimgray;
+   color: whitesmoke; 
+   font-size: 2.5rem;
+   margin: 10px 5px 5px 10px;
+   border:2px dashed black
+}
+.snilek{
+    text-align: center;
+    color: whitesmoke;
+    background-image: url(vizitka\ md.jpg);
+     background-repeat: no-repeat;
+     background-position;:top| center| bottom| left center| right| 10px| 10%| 10pt
+    
+    
+}
+
 h1,
 h2
 {   background-color:black;
     color: whitesmoke;
     line-height: 1.5;
     text-align: center;
-    border: red;
-
-}
-main {
-    display: inline;
-}
-
-h3{
-    background-color: black;
-    color:whitesmoke;
-    text-align: center;
-
-}
-
-
-
-.foto-Mar {
-max-width: 350px;
-max-height: 350px;
-margin: 50px;
-
-
-
-}
-.sklenka{
-width: 250px;
-border-radius: 50%;
-}
-footer {
-    background-color:black;
-    color:whitesmoke;
-}
-.vitej{
-    border: 1px solid red;
-    background-color: black;
-    color: whitesmoke;
-   padding: 1rem;
-    margin: 5px 10px 5px 10px ;
-    text-align: center;
-}
-
-.delimstranku{
-    padding-bottom: 50%;
-}
-.czechitas{
-
-    border: 3px double #241917
-
-    
+    border-radius: 50%;
 }
     
+
+    nav li{
+        display: inline;
+        border: 50px;
+    }
+    
+    nav ul {
+        text-align: center;
+    }
+    .foto-omne{
+        max-width: 350px;
+        max-height: 350px;
+        margin: 50px;   
+    }
+    .delimstranku{
+    padding: 250px;
+    }
+    .konec{
+        border:4px outset dimgray;
+    }
+    .paticka{
+    background-color: grey;    
+    }
